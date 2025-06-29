@@ -36,7 +36,7 @@ Advanced MongoDB concepts, Data Science with Python, Full-stack development patt
 
 
 ### 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](jisskthomas456@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jisskthomas456@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jisskthomas)
 
 
