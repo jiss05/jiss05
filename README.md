@@ -31,9 +31,6 @@ Advanced MongoDB concepts, Data Science with Python, Full-stack development patt
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiss05&layout=compact&theme=radical)
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=jiss05&theme=radical&row=1)
-
 
 ### 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jisskthomas456@gmail.com)
